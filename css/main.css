@@ -7,20 +7,7 @@ body {
     background-color: silver;
 }
 
-header {
 
-}
-
-footer {
-
-}
-section {
-
-}
-
-article {
-
-}*/
 /*--------------------------clases e IDs ---------------------------*/
 .permanent {
     font-family: 'Permanent Marker', cursive;
@@ -32,7 +19,7 @@ article {
 .imgproyecto {
     width: 100%;
 
-    
+    /*Sombra interna de las imágenes de los proyectos*/
 }
 
 /*para el header*/
@@ -55,13 +42,15 @@ article {
     color: rgb(34, 116, 240);
 }
 
-
-
-#ninjas {
-
-    background-image: url("images/pagwebninjas.jpg")
+.whoami {
+    width: 95%;
 }
 
+
+.foot { 
+    text-align: center;
+
+}
 
 /*-------------------------Elementos -------------------------------*/
 p {
@@ -69,7 +58,3 @@ p {
     
 }
 
-button {
-    background-color: blue;
-    color: white;
-}
