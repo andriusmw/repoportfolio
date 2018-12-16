@@ -1,0 +1,75 @@
+/*------------------------------------------------ESTRUCTURA ------------------------------------*/
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: silver;
+}
+
+header {
+
+}
+
+footer {
+
+}
+section {
+
+}
+
+article {
+
+}*/
+/*--------------------------clases e IDs ---------------------------*/
+.permanent {
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+
+
+.imgproyecto {
+    width: 100%;
+
+    
+}
+
+/*para el header*/
+.derecha {
+    text-align: right;
+    background-color: rgb(34, 116, 240);
+    color: white;
+    font-size: 85%;
+}
+
+/*----imagen circular   ----*/
+.andres {
+    width: 20%;
+    height: 40%;
+    margin-left: 40%;
+}
+/*---para el título   --*/
+.centrado {
+    text-align: center;
+    color: rgb(34, 116, 240);
+}
+
+
+
+#ninjas {
+
+    background-image: url("images/pagwebninjas.jpg")
+}
+
+
+/*-------------------------Elementos -------------------------------*/
+p {
+    font-family: 'Roboto';
+    
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
