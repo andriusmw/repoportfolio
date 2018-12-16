@@ -11,6 +11,7 @@ body {
 /*--------------------------clases e IDs ---------------------------*/
 .permanent {
     font-family: 'Permanent Marker', cursive;
+    text-align: center;
 }
 
 
@@ -52,9 +53,22 @@ body {
 
 }
 
+#github {
+    width: 35%;
+}
+
+#linkedin {
+    width: 35%;
+}
+
 /*-------------------------Elementos -------------------------------*/
 p {
     font-family: 'Roboto';
+    text-align: center;
     
+}
+
+h1 {
+    text-align: center;
 }
 
